@@ -31,9 +31,8 @@ Check out more in my pinned repositories 👇
 
 ## 📬 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
-- 📧 Email me at: `your.email@example.com`  
-- 💻 [Portfolio Website](https://your-portfolio-link.com) *(if you have one)*
+- 💼 [LinkedIn](www.linkedin.com/in/yash-upadhyay-309b44281)  
+- 📧 Email me at: `yashupadhyay481@gmail.com`  
 
 ---
 
