@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hello there! I'm Yash
 
-<!--
-**yash6810/yash6810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A passionate B.Tech student with a deep curiosity for **Data Science**, **Machine Learning**, and **AI-driven insights**. I'm on a journey to transform real-world data into impactful solutions.
 
-Here are some ideas to get you started:
+🌱 Currently exploring advanced machine learning, model optimization, and hands-on data analytics projects. I thrive on solving meaningful problems with data and code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 My 2025 Goal: Land an exciting internship where I can learn from industry experts, contribute to real projects, and sharpen my data science skills even further.
+
+---
+
+## 🚀 Skills & Tech Stack
+
+- 🧠 Machine Learning: Scikit-learn, XGBoost, Logistic Regression, Decision Trees
+- 📊 Data Wrangling: Pandas, NumPy, Excel
+- 📈 Data Visualization: Matplotlib, Seaborn, Plotly
+- 🗂️ SQL & Databases: MySQL
+- 💻 Programming Languages: Python, C, Java
+- 🔧 Tools: Jupyter, VS Code, Git, GitHub
+
+---
+
+## 📌 Projects I'm Proud Of
+
+- **IPL Data Explorer** – EDA project analyzing match and player performance from IPL datasets using Pandas, NumPy, and Matplotlib
+- **911 Calls Analysis** – Real-world analysis of emergency call data using EDA, time-based trend analysis, and visual storytelling
+- **Finance Analysis** – Exploratory and visual analysis of financial datasets (stocks, revenue, profits) using Pandas and Matplotlib
+
+Check out more in my pinned repositories 👇
+
+---
+
+## 📬 Let's Connect!
+
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
+- 📧 Email me at: `your.email@example.com`  
+- 💻 [Portfolio Website](https://your-portfolio-link.com) *(if you have one)*
+
+---
+
+### ✨ Fun Fact
+
+> I see data the way some people see poetry — patterns, rhythms, meaning in the chaos.
+
+---
+
+_Thanks for stopping by! Let's build something amazing together._
