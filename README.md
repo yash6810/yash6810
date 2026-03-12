@@ -4,7 +4,7 @@
 
 🌱 Currently exploring advanced machine learning, model optimization, and hands-on data analytics projects. I thrive on solving meaningful problems with data and code.
 
-🎯 My 2025 Goal: Land an exciting internship where I can learn from industry experts, contribute to real projects, and sharpen my data science skills even further.
+🎯 My 2026 Goal: Land an exciting internship where I can learn from industry experts, contribute to real projects, and sharpen my data science skills even further.
 
 ---
 
